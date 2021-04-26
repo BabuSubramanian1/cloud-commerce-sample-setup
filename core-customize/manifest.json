@@ -110,11 +110,7 @@
 		  "storefront":"yacceleratorstorefront",
 		  "template":"yacceleratorstorefront"
 	   },
-	   { 
-		  "addon":"personalizationsearchsamplesaddon",
-		  "storefront":"yacceleratorstorefront",
-		  "template":"yacceleratorstorefront"
-	   },
+	   
 	   { 
 		  "addon":"personalizationaddon",
 		  "storefront":"yacceleratorstorefront",
