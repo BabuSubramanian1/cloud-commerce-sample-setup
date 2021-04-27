@@ -33,7 +33,7 @@
     <extension name='commerceorgaddon' />
     <extension name='commerceorgsamplesaddon' />
     <extension name='powertoolsstore' />
-    <extension name='spartacussampledata' />
+    <!--<extension name='spartacussampledata' /> -->
     <extension name='accountsummaryaddon' />
     <extension name='b2bpunchout' />
     <extension name='b2bpunchoutaddon' />
